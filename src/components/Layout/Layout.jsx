@@ -1,7 +1,6 @@
 /**
- * Layout Component - Main wrapper for all pages
- * Provides consistent navigation, footer, and page structure
- * Implements responsive design and accessibility features
+ * Layout Component - Main style for all pages
+ * consistent navigation, footer, and page structure
  */
 
 import React from 'react';

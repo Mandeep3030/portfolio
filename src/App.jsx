@@ -1,7 +1,6 @@
 /**
- * Main App Component - Portfolio Application Entry Point
- * Implements React Router for navigation between pages
- * Includes global styles and layout structure
+ * Main App Component - Portfolio Application
+ * React Router for navigation between pages
  */
 
 import React from 'react';

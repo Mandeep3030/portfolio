@@ -1,4 +1,4 @@
-// Portfolio data extracted from Mandeep Singh's resume
+// Portfolio data of Mandeep Singh
 // This file centralizes all personal and professional information
 
 export const personalInfo = {
@@ -47,7 +47,7 @@ export const education = [
     id: 1,
     institution: "Centennial College",
     degree: "Advanced Diploma in Software Engineering Technology",
-    period: "2023 - Present",
+    period: "2024 - Present",
     location: "Toronto, ON",
     description: "Comprehensive program covering full-stack development, software design patterns, database management, and modern programming practices.",
     highlights: [
@@ -112,7 +112,7 @@ export const services = [
     id: 1,
     title: "Frontend Development",
     description: "Creating responsive, interactive user interfaces using modern frameworks like React, with a focus on performance and user experience.",
-    icon: "🎨", // Will be replaced with actual icons
+    icon: "🎨",
     technologies: ["React", "JavaScript", "CSS3", "HTML5"]
   },
   {
